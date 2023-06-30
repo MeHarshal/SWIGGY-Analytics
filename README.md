@@ -15,6 +15,10 @@ Before conducting the analysis, the data was scraped from **swiggy.com** using t
 The first CSV contains data on restaurants, including columns such as restaurant ID, restaurant name, restaurant link, price for two people, ratings, and the cuisines they serve. This table provides an overview of the restaurants available on the food delivery platform.
 
 The second CSV contains information on dishes offered by the restaurants. It includes columns such as restaurant ID, restaurant name, dishes, cuisines, and the price of each dish. This table provides detailed information about the specific dishes offered by each restaurant.
+<br>
+<img src="https://i.ibb.co/X233D0g/Swiggy-Scrapping-3.png" alt="Swiggy-Scrapping-3" border="0">
+<img src="https://i.ibb.co/Yb5FgnT/Swiggy-Scrapping-1.png" alt="Swiggy-Scrapping-1" border="0">
+<img src="https://i.ibb.co/mDspsNG/Swiggy-Scrapping-2.png" alt="Swiggy-Scrapping-2" border="0">
 
 🔘 **Methodolgy**
 
@@ -33,16 +37,12 @@ The methodology for creating a dashboard based on the provided CSV data can invo
 This dashboard provides a comprehensive overview of the food delivery platform's data. It showcases the top 5 locations with the highest count of restaurants, allowing users to identify popular areas. Additionally, it highlights the top 5 restaurants for each type of cuisine, aiding in the exploration of diverse culinary options. The treemap visualization illustrates the distribution of restaurants, while the location-wise breakdown of restaurants with reviews exceeding 1000 offers insights into highly reviewed areas.
 
 🔘 **Visualizations**<br>
-<img src="https://i.ibb.co/BtjVVBZ/Total-Cases-by-Continent.png" alt="Total-Cases-by-Continent" border="0">
-<p></p>
-<img src="https://i.ibb.co/FW3jP1c/Total-Cases-Distribution.png" alt="Total-Cases-Distribution" border="0">
-<p></p>
 <img src="https://i.ibb.co/2svbHBq/Total-deaths-by-Continent.png" alt="Total-deaths-by-Continent" border="0">
 <p></p>
-<img src="https://i.ibb.co/MGS36s6/Top-5-country-by-total-cases.png" alt="Top-5-country-by-total-cases" border="0">
-<p></p>
-<img src="https://i.ibb.co/YdJzVhb/Median-age-by-Continent.png" alt="Median-age-by-Continent" border="0">
-<p></p>
+<img src="https://i.ibb.co/4Z1Hdkd/Location-wise-number-of-restaurant-where-ratinf-is-greater-than-1000.png" alt="Location-wise-number-of-restaurant-where-ratinf-is-greater-than-1000" border="0">
+<img src="https://i.ibb.co/QHpdF3G/Top-5-number-of-restaurant-for-each-type-of-cuisine.png" alt="Top-5-number-of-restaurant-for-each-type-of-cuisine" border="0">
+<img src="https://i.ibb.co/6tLXSkR/Distribution-of-Restaurants.png" alt="Distribution-of-Restaurants" border="0">
+<img src="https://i.ibb.co/zfbJxhz/Location-wise-distribution-of-Restaurant.png" alt="Location-wise-distribution-of-Restaurant" border="0">
 
 🔘 **Findings**
 
