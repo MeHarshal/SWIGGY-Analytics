@@ -2,13 +2,15 @@
                                               
 🔘 **Introduction**
 
-In the ever-evolving food delivery landscape, understanding the dynamics of popular platforms like SWIGGY is crucial for making informed decisions. By employing web scraping techniques to gather data on restaurant ratings, cuisine, and pricing, valuable insights and recommendations can be generated. This analysis not only aids in evaluating the viability of opening a remote kitchen in Bangalore but also offers broader industry insights, including area-wise distribution of restaurants, affordable and upscale options for various cuisines, and the prevalence of different culinary offerings.
+In the ever-evolving food delivery landscape, understanding the dynamics of popular platforms like **swiggy.com** is crucial for making informed decisions. By employing web scraping techniques to gather data on restaurant ratings, cuisine, and pricing, valuable insights and recommendations can be generated. This analysis not only aids in evaluating the viability of opening a remote kitchen in Bangalore but also offers broader industry insights, including area-wise distribution of restaurants, affordable and upscale options for various cuisines, and the prevalence of different culinary offerings.
 
 🔘 **Aim of the study**
 
 The aim of this study is to analyze data collected from swiggy.com, a food delivery platform, using web scraping techniques. The objective is to generate insights and recommendations for opening a remote kitchen in Bangalore, as well as provide broader industry insights such as area-wise restaurant distribution and affordable and upscale options for various cuisines.
 
 🔘 **Data Description**
+
+Before conducting the analysis, the data was scraped from **swiggy.com** using the **Beautiful Soup** library. The scraped data was then processed and saved into CSV files using the **Pandas** library, creating separate dataframes for restaurants and dishes. These dataframes provide the foundation for further analysis and insights into the restaurant and cuisine landscape on the food delivery platform.
 
 The first CSV contains data on restaurants, including columns such as restaurant ID, restaurant name, restaurant link, price for two people, ratings, and the cuisines they serve. This table provides an overview of the restaurants available on the food delivery platform.
 
