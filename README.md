@@ -21,7 +21,6 @@ The first CSV contains data on restaurants, including columns such as restaurant
 The second CSV contains information on dishes offered by the restaurants. It includes columns such as restaurant ID, restaurant name, dishes, cuisines, and the price of each dish. This table provides detailed information about the specific dishes offered by each restaurant.
 
 
-
 🔘 **Methodolgy**
 
 The methodology for creating a dashboard based on the provided CSV data can involve the following steps:
@@ -35,10 +34,12 @@ The methodology for creating a dashboard based on the provided CSV data can invo
 4. Dashboard Development: Develop a dashboard using a suitable visualization tool such as Tableau, Power BI, or Python libraries like Plotly or Dash. Design the dashboard to effectively communicate the key insights and recommendations derived from the data analysis, utilizing appropriate charts, graphs, and interactive elements.
 
 🔘 **Dashboard**<br>
+
 <img src="https://i.ibb.co/6n8MdVT/Swiggy-Analytics-dashboard.png" alt="Swiggy-Analytics-dashboard" border="0"><br>
 This dashboard provides a comprehensive overview of the food delivery platform's data. It showcases the top 5 locations with the highest count of restaurants, allowing users to identify popular areas. Additionally, it highlights the top 5 restaurants for each type of cuisine, aiding in the exploration of diverse culinary options. The treemap visualization illustrates the distribution of restaurants, while the location-wise breakdown of restaurants with reviews exceeding 1000 offers insights into highly reviewed areas.
 
 🔘 **Visualizations**<br>
+
 <img src="https://i.ibb.co/4Z1Hdkd/Location-wise-number-of-restaurant-where-ratinf-is-greater-than-1000.png" alt="Location-wise-number-of-restaurant-where-ratinf-is-greater-than-1000" border="0">
 <p>Indiranagr restaurants top in sum of rating count followed by other locations..</p>
 <img src="https://i.ibb.co/QHpdF3G/Top-5-number-of-restaurant-for-each-type-of-cuisine.png" alt="Top-5-number-of-restaurant-for-each-type-of-cuisine" border="0">
