@@ -40,10 +40,9 @@ This dashboard provides a comprehensive overview of the food delivery platform's
 
 🔘 **Visualizations**<br>
 <img src="https://i.ibb.co/4Z1Hdkd/Location-wise-number-of-restaurant-where-ratinf-is-greater-than-1000.png" alt="Location-wise-number-of-restaurant-where-ratinf-is-greater-than-1000" border="0">
-<p>Indiranagr restaurants top in rating count.</p>
+<p>Indiranagr restaurants top in sum of rating count followed by other locations..</p>
 <img src="https://i.ibb.co/QHpdF3G/Top-5-number-of-restaurant-for-each-type-of-cuisine.png" alt="Top-5-number-of-restaurant-for-each-type-of-cuisine" border="0">
 <p>Beverages are the most orderd followed by Desserts, Snacks, South Indian & Chineses respectively.</p>
-<img src="https://i.ibb.co/6tLXSkR/Distribution-of-Restaurants.png" alt="Distribution-of-Restaurants" border="0">
 <img src="https://i.ibb.co/zfbJxhz/Location-wise-distribution-of-Restaurant.png" alt="Location-wise-distribution-of-Restaurant" border="0">
 <p>Most restaurants are listed in Indiranagar followed by Layout, Koromangala, Jayanagar, Basvanagudi respectively.</p>
 
