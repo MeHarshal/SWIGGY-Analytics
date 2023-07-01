@@ -8,6 +8,10 @@ In the ever-evolving food delivery landscape, understanding the dynamics of popu
 
 The aim of this study is to analyze data collected from swiggy.com, a food delivery platform, using web scraping techniques. The objective is to generate insights and recommendations for opening a remote kitchen in Bangalore, as well as provide broader industry insights such as area-wise restaurant distribution and affordable and upscale options for various cuisines.
 
+🔘 **Data Source**
+
+The data source used for this analysis is SWIGGY, a popular food delivery platform, specifically focusing on the Bangalore region. The data was collected by scraping the relevant information from the SWIGGY website using the Beautiful Soup library. The scraping process was carried out using Jupyter Notebook, a widely used programming environment for data analysis and exploration. The collected data includes details such as restaurant IDs, names, links, prices for two people, ratings, cuisines, dishes, and their corresponding prices.
+
 🔘 **Data Description**
 
 Before conducting the analysis, the data was scraped from **swiggy.com** using the **Beautiful Soup** library. The scraped data was then processed and saved into CSV files using the **Pandas** library, creating separate dataframes for restaurants and dishes. These dataframes provide the foundation for further analysis and insights into the restaurant and cuisine landscape on the food delivery platform.
@@ -58,9 +62,8 @@ This dashboard provides a comprehensive overview of the food delivery platform's
 
 🔘 **Summary**
 
-The analysis performed on swiggy.com is to generate insights that can inform the decision-making process for opening a remote kitchen in Bangalore. By analyzing the data from SWIGGY, valuable information will be obtained regarding the area-wise distribution of restaurants, the classification of restaurants as cheap or expensive for each cuisine, and the number of restaurants available for each cuisine. These insights will not only assist in evaluating the feasibility of a remote kitchen but also provide valuable industry insights for the broader food delivery sector.
+The analysis conducted on the data from SWIGGY.com aims to provide valuable insights for making informed decisions about opening a remote kitchen in Bangalore. By examining the dataset, key information regarding the distribution of restaurants across different areas, the affordability of restaurants for various cuisines, and the quantity of restaurants available for each cuisine will be obtained. These insights are vital for assessing the viability of a remote kitchen and offer valuable industry insights for the broader food delivery sector.
 
 🔘 **Challenges Faced**
 
-1. Collecting data from single platform for different restaurants was time consuming.
-2. Getting data well and consistent across different  sources requires careful data cleaning and processing.
+During the analysis, I may have faced challenges including data quality issues, website structure complexities, managing large data volumes, legal and ethical considerations, and interpreting the data for meaningful insights. Ensuring the accuracy and completeness of the scraped data while handling dynamic website elements can be demanding. Additionally, complying with legal and ethical boundaries, optimizing code, and addressing changing website structures require careful attention. Analyzing and interpreting the data, as well as maintaining technical expertise, are crucial for overcoming these challenges and deriving valuable insights from the project.
